@@ -63,6 +63,6 @@ You don’t need to be a Python expert to help:
 - Improve an explanation in a chapter  
 - Add a simple test or example  
 
-Start by visiting **https://github.com/pystatsv1/PyStatsV1**  
-and reading **CONTRIBUTING.md**.  
+Start by visiting [PyStatsV1/PyStatsV1](https://github.com/pystatsv1/PyStatsV1)
+and reading [CONTRIBUTING.md](https://github.com/pystatsv1/PyStatsV1/blob/main/CONTRIBUTING.md).
 Open an issue to say hello or propose a new idea — we’re glad you’re here.
