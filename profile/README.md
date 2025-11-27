@@ -1,5 +1,5 @@
 # PyStatsV1 Organization
-**Don't just calculate your results — engineer them.**
+**Don't just calculate your results — engineer them. We treat statistical analysis like production software.**
 
 PyStatsV1 is an open-source organization applying modern software engineering
 standards to applied statistics.  
@@ -66,3 +66,4 @@ You don’t need to be a Python expert to help:
 Start by visiting [PyStatsV1/PyStatsV1](https://github.com/pystatsv1/PyStatsV1)
 and reading [CONTRIBUTING.md](https://github.com/pystatsv1/PyStatsV1/blob/main/CONTRIBUTING.md).
 Open an issue to say hello or propose a new idea — we’re glad you’re here.
+
